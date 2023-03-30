@@ -354,7 +354,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | TuSimple | San Diego, CA; Remote | **🔒 Closed 🔒** Software Engineer Internships |
 | Blizzard | Multiple Locations | **🔒 Closed 🔒** Software Engineering Internship, UI/UX Intern, Analytics Internship |
 | [Awardco](https://www.award.co/careers) | Pleasant Grove, Utah | (**No Visa Sponsorship available**) Front-End SWE Intern (Vue and JavaScript), Back-End SWE Intern (C# and .NET Framework), [SWE Test Intern (Cypress and JavaScript)](https://award.co/position?gh_jid=4323618004) |
-| [ZipRecruiter](https://www.ziprecruiter.com/careers) | Santa Monica, CA | [Data Scientist / Machine Learning Engineer - Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Data-Scientist-Machine-Learning-Engineer-Intern/-in-Santa-Monica,CA?jid=734d6c38e2b352bc), [Software Engineer Intern](https://www.ziprecruiter.com/c/ZipRecruiter/Job/Software-Engineer-Intern/-in-Santa-Monica,CA?jid=f331da90344f3100) |
+| [ZipRecruiter](https://www.ziprecruiter.com/careers) | Santa Monica, CA |  **🔒 Closed 🔒** Data Scientist / Machine Learning Engineer - Intern, Software Engineer Intern |
 | CarMax | Richmond, VA, Dallas, TX | **🔒 Closed 🔒** Technology Intern (No Visa Sponsorship) |
 | [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/details/Software-Engineer-Intern_JR0073489) | Atlanta, GA | Software Engineer Intern (No Visa Sponsorship) |
 | EY | Multiple Locations in US | **🔒 Closed 🔒**(No Visa Sponsorship available) Technology Consulting Intern: (Must be US citizen and obtain clearances) |
